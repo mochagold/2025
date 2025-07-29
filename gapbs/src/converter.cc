@@ -12,9 +12,8 @@
 using namespace std;
 
 int main(int argc, char* argv[]) {
-  return 0;
-  CLConvert cli(argc, argv, "converter");
-  cli.ParseArgs();
+  CLConvert cli(argc, argv, "converter")
+  cli.ParseArgs()
   if (cli.out_weighted()) {
     WeightedBuilder bw(cli);
     WGraph wg = bw.MakeGraph();
