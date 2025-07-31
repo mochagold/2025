@@ -1,7 +1,5 @@
 # 2025 CE Challenge
 
-Give me Score please.
-
 The main objectives of Computer Engineering (CE) Challenge 2025 are to analyze and improve the branch prediction mechanism of the RISC-V architecture and to strengthen the vectorization capabilites of the LLVM compiler.
 
 Detailed submission rules are described in https://cechallenge.github.io/
